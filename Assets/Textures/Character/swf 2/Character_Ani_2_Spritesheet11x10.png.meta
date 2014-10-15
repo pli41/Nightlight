@@ -3,6 +3,112 @@ guid: 79d12cced6ffa4e529acaa30021392e7
 TextureImporter:
   fileIDToRecycleName:
     21300000: Character_Ani_2_Spritesheet11x10
+    21300002: Character_Ani_2_Spritesheet11x10_0
+    21300004: Character_Ani_2_Spritesheet11x10_1
+    21300006: Character_Ani_2_Spritesheet11x10_2
+    21300008: Character_Ani_2_Spritesheet11x10_3
+    21300010: Character_Ani_2_Spritesheet11x10_4
+    21300012: Character_Ani_2_Spritesheet11x10_5
+    21300014: Character_Ani_2_Spritesheet11x10_6
+    21300016: Character_Ani_2_Spritesheet11x10_7
+    21300018: Character_Ani_2_Spritesheet11x10_8
+    21300020: Character_Ani_2_Spritesheet11x10_9
+    21300022: Character_Ani_2_Spritesheet11x10_10
+    21300024: Character_Ani_2_Spritesheet11x10_11
+    21300026: Character_Ani_2_Spritesheet11x10_12
+    21300028: Character_Ani_2_Spritesheet11x10_13
+    21300030: Character_Ani_2_Spritesheet11x10_14
+    21300032: Character_Ani_2_Spritesheet11x10_15
+    21300034: Character_Ani_2_Spritesheet11x10_16
+    21300036: Character_Ani_2_Spritesheet11x10_17
+    21300038: Character_Ani_2_Spritesheet11x10_18
+    21300040: Character_Ani_2_Spritesheet11x10_19
+    21300042: Character_Ani_2_Spritesheet11x10_20
+    21300044: Character_Ani_2_Spritesheet11x10_21
+    21300046: Character_Ani_2_Spritesheet11x10_22
+    21300048: Character_Ani_2_Spritesheet11x10_23
+    21300050: Character_Ani_2_Spritesheet11x10_24
+    21300052: Character_Ani_2_Spritesheet11x10_25
+    21300054: Character_Ani_2_Spritesheet11x10_26
+    21300056: Character_Ani_2_Spritesheet11x10_27
+    21300058: Character_Ani_2_Spritesheet11x10_28
+    21300060: Character_Ani_2_Spritesheet11x10_29
+    21300062: Character_Ani_2_Spritesheet11x10_30
+    21300064: Character_Ani_2_Spritesheet11x10_31
+    21300066: Character_Ani_2_Spritesheet11x10_32
+    21300068: Character_Ani_2_Spritesheet11x10_33
+    21300070: Character_Ani_2_Spritesheet11x10_34
+    21300072: Character_Ani_2_Spritesheet11x10_35
+    21300074: Character_Ani_2_Spritesheet11x10_36
+    21300076: Character_Ani_2_Spritesheet11x10_37
+    21300078: Character_Ani_2_Spritesheet11x10_38
+    21300080: Character_Ani_2_Spritesheet11x10_39
+    21300082: Character_Ani_2_Spritesheet11x10_40
+    21300084: Character_Ani_2_Spritesheet11x10_41
+    21300086: Character_Ani_2_Spritesheet11x10_42
+    21300088: Character_Ani_2_Spritesheet11x10_43
+    21300090: Character_Ani_2_Spritesheet11x10_44
+    21300092: Character_Ani_2_Spritesheet11x10_45
+    21300094: Character_Ani_2_Spritesheet11x10_46
+    21300096: Character_Ani_2_Spritesheet11x10_47
+    21300098: Character_Ani_2_Spritesheet11x10_48
+    21300100: Character_Ani_2_Spritesheet11x10_49
+    21300102: Character_Ani_2_Spritesheet11x10_50
+    21300104: Character_Ani_2_Spritesheet11x10_51
+    21300106: Character_Ani_2_Spritesheet11x10_52
+    21300108: Character_Ani_2_Spritesheet11x10_53
+    21300110: Character_Ani_2_Spritesheet11x10_54
+    21300112: Character_Ani_2_Spritesheet11x10_55
+    21300114: Character_Ani_2_Spritesheet11x10_56
+    21300116: Character_Ani_2_Spritesheet11x10_57
+    21300118: Character_Ani_2_Spritesheet11x10_58
+    21300120: Character_Ani_2_Spritesheet11x10_59
+    21300122: Character_Ani_2_Spritesheet11x10_60
+    21300124: Character_Ani_2_Spritesheet11x10_61
+    21300126: Character_Ani_2_Spritesheet11x10_62
+    21300128: Character_Ani_2_Spritesheet11x10_63
+    21300130: Character_Ani_2_Spritesheet11x10_64
+    21300132: Character_Ani_2_Spritesheet11x10_65
+    21300134: Character_Ani_2_Spritesheet11x10_66
+    21300136: Character_Ani_2_Spritesheet11x10_67
+    21300138: Character_Ani_2_Spritesheet11x10_68
+    21300140: Character_Ani_2_Spritesheet11x10_69
+    21300142: Character_Ani_2_Spritesheet11x10_70
+    21300144: Character_Ani_2_Spritesheet11x10_71
+    21300146: Character_Ani_2_Spritesheet11x10_72
+    21300148: Character_Ani_2_Spritesheet11x10_73
+    21300150: Character_Ani_2_Spritesheet11x10_74
+    21300152: Character_Ani_2_Spritesheet11x10_75
+    21300154: Character_Ani_2_Spritesheet11x10_76
+    21300156: Character_Ani_2_Spritesheet11x10_77
+    21300158: Character_Ani_2_Spritesheet11x10_78
+    21300160: Character_Ani_2_Spritesheet11x10_79
+    21300162: Character_Ani_2_Spritesheet11x10_80
+    21300164: Character_Ani_2_Spritesheet11x10_81
+    21300166: Character_Ani_2_Spritesheet11x10_82
+    21300168: Character_Ani_2_Spritesheet11x10_83
+    21300170: Character_Ani_2_Spritesheet11x10_84
+    21300172: Character_Ani_2_Spritesheet11x10_85
+    21300174: Character_Ani_2_Spritesheet11x10_86
+    21300176: Character_Ani_2_Spritesheet11x10_87
+    21300178: Character_Ani_2_Spritesheet11x10_88
+    21300180: Character_Ani_2_Spritesheet11x10_89
+    21300182: Character_Ani_2_Spritesheet11x10_90
+    21300184: Character_Ani_2_Spritesheet11x10_91
+    21300186: Character_Ani_2_Spritesheet11x10_92
+    21300188: Character_Ani_2_Spritesheet11x10_93
+    21300190: Character_Ani_2_Spritesheet11x10_94
+    21300192: Character_Ani_2_Spritesheet11x10_95
+    21300194: Character_Ani_2_Spritesheet11x10_96
+    21300196: Character_Ani_2_Spritesheet11x10_97
+    21300198: Character_Ani_2_Spritesheet11x10_98
+    21300200: Character_Ani_2_Spritesheet11x10_99
+    21300202: Character_Ani_2_Spritesheet11x10_100
+    21300204: Character_Ani_2_Spritesheet11x10_101
+    21300206: Character_Ani_2_Spritesheet11x10_102
+    21300208: Character_Ani_2_Spritesheet11x10_103
+    21300210: Character_Ani_2_Spritesheet11x10_104
+    21300212: Character_Ani_2_Spritesheet11x10_105
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -22,17 +128,17 @@ TextureImporter:
   grayScaleToAlpha: 0
   generateCubemap: 0
   seamlessCubemap: 0
-  textureFormat: -1
-  maxTextureSize: 1024
+  textureFormat: -3
+  maxTextureSize: 4096
   textureSettings:
-    filterMode: -1
-    aniso: -1
+    filterMode: 2
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -43,6 +149,1066 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Character_Ani_2_Spritesheet11x10_0
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 5501
+        width: 226
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_1
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 5501
+        width: 226
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_2
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 5501
+        width: 229
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_3
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 5501
+        width: 230
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_4
+      rect:
+        serializedVersion: 2
+        x: 3438
+        y: 5501
+        width: 232
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_5
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 5501
+        width: 232
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_6
+      rect:
+        serializedVersion: 2
+        x: 5034
+        y: 5501
+        width: 234
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_7
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 5501
+        width: 232
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_8
+      rect:
+        serializedVersion: 2
+        x: 6634
+        y: 5501
+        width: 232
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_9
+      rect:
+        serializedVersion: 2
+        x: 7434
+        y: 5501
+        width: 232
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_10
+      rect:
+        serializedVersion: 2
+        x: 8233
+        y: 5501
+        width: 232
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_11
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 4908
+        width: 226
+        height: 310
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_12
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 4883
+        width: 275
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_13
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 4883
+        width: 275
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_14
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 4874
+        width: 261
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_15
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 4874
+        width: 261
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_16
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 4874
+        width: 249
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_17
+      rect:
+        serializedVersion: 2
+        x: 5809
+        y: 4874
+        width: 250
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_18
+      rect:
+        serializedVersion: 2
+        x: 6626
+        y: 4874
+        width: 240
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_19
+      rect:
+        serializedVersion: 2
+        x: 7425
+        y: 4874
+        width: 243
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_20
+      rect:
+        serializedVersion: 2
+        x: 8204
+        y: 4900
+        width: 269
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4298
+        width: 270
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_22
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 4281
+        width: 267
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_23
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 4281
+        width: 266
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_24
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 4272
+        width: 261
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_25
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 4272
+        width: 261
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_26
+      rect:
+        serializedVersion: 2
+        x: 4211
+        y: 4281
+        width: 249
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_27
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 4281
+        width: 249
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_28
+      rect:
+        serializedVersion: 2
+        x: 5827
+        y: 4272
+        width: 240
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_29
+      rect:
+        serializedVersion: 2
+        x: 6626
+        y: 4272
+        width: 240
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_30
+      rect:
+        serializedVersion: 2
+        x: 7405
+        y: 4298
+        width: 269
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_31
+      rect:
+        serializedVersion: 2
+        x: 8204
+        y: 4298
+        width: 269
+        height: 318
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_32
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3662
+        width: 254
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_33
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 3662
+        width: 254
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_34
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 3662
+        width: 295
+        height: 309
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_35
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 3662
+        width: 289
+        height: 309
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_36
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 3671
+        width: 254
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_37
+      rect:
+        serializedVersion: 2
+        x: 5033
+        y: 3671
+        width: 255
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_38
+      rect:
+        serializedVersion: 2
+        x: 5809
+        y: 3705
+        width: 250
+        height: 309
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_39
+      rect:
+        serializedVersion: 2
+        x: 6609
+        y: 3705
+        width: 249
+        height: 309
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_40
+      rect:
+        serializedVersion: 2
+        x: 7399
+        y: 3739
+        width: 286
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_41
+      rect:
+        serializedVersion: 2
+        x: 8198
+        y: 3739
+        width: 287
+        height: 327
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_42
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3138
+        width: 287
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_43
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 3138
+        width: 287
+        height: 326
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_44
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 3095
+        width: 260
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_45
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 3095
+        width: 261
+        height: 335
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_46
+      rect:
+        serializedVersion: 2
+        x: 3403
+        y: 3086
+        width: 235
+        height: 309
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_47
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 3086
+        width: 235
+        height: 309
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_48
+      rect:
+        serializedVersion: 2
+        x: 5045
+        y: 3069
+        width: 232
+        height: 266
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_49
+      rect:
+        serializedVersion: 2
+        x: 5849
+        y: 3069
+        width: 227
+        height: 266
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_50
+      rect:
+        serializedVersion: 2
+        x: 6632
+        y: 3060
+        width: 226
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_51
+      rect:
+        serializedVersion: 2
+        x: 7431
+        y: 3060
+        width: 228
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_52
+      rect:
+        serializedVersion: 2
+        x: 8231
+        y: 3060
+        width: 228
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2458
+        width: 226
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_54
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2458
+        width: 232
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_55
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 2458
+        width: 232
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_56
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 2458
+        width: 227
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_57
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 2458
+        width: 226
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_58
+      rect:
+        serializedVersion: 2
+        x: 5033
+        y: 2458
+        width: 226
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_59
+      rect:
+        serializedVersion: 2
+        x: 5832
+        y: 2458
+        width: 227
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_60
+      rect:
+        serializedVersion: 2
+        x: 6108
+        y: 2602
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_61
+      rect:
+        serializedVersion: 2
+        x: 6632
+        y: 2458
+        width: 228
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_62
+      rect:
+        serializedVersion: 2
+        x: 7434
+        y: 2458
+        width: 226
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_63
+      rect:
+        serializedVersion: 2
+        x: 8231
+        y: 2458
+        width: 228
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1857
+        width: 226
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_65
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1857
+        width: 227
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_66
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1857
+        width: 232
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_67
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1857
+        width: 232
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_68
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 1857
+        width: 227
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_69
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 1857
+        width: 226
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_70
+      rect:
+        serializedVersion: 2
+        x: 5033
+        y: 1857
+        width: 226
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_71
+      rect:
+        serializedVersion: 2
+        x: 5832
+        y: 1857
+        width: 227
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_72
+      rect:
+        serializedVersion: 2
+        x: 6632
+        y: 1857
+        width: 228
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_73
+      rect:
+        serializedVersion: 2
+        x: 7431
+        y: 1857
+        width: 229
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_74
+      rect:
+        serializedVersion: 2
+        x: 8231
+        y: 1857
+        width: 228
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_75
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1261
+        width: 226
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_76
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1261
+        width: 227
+        height: 355
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_77
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 1373
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_78
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1255
+        width: 232
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_79
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 1264
+        width: 226
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_80
+      rect:
+        serializedVersion: 2
+        x: 4235
+        y: 1264
+        width: 225
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_81
+      rect:
+        serializedVersion: 2
+        x: 5034
+        y: 1264
+        width: 225
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_82
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 1264
+        width: 226
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_83
+      rect:
+        serializedVersion: 2
+        x: 6626
+        y: 1255
+        width: 235
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_84
+      rect:
+        serializedVersion: 2
+        x: 7425
+        y: 1255
+        width: 235
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_85
+      rect:
+        serializedVersion: 2
+        x: 8233
+        y: 1264
+        width: 226
+        height: 337
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_86
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 662
+        width: 232
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_87
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 662
+        width: 235
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_88
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 662
+        width: 234
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_89
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 662
+        width: 227
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_90
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 662
+        width: 226
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_91
+      rect:
+        serializedVersion: 2
+        x: 4220
+        y: 662
+        width: 249
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_92
+      rect:
+        serializedVersion: 2
+        x: 5024
+        y: 662
+        width: 244
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_93
+      rect:
+        serializedVersion: 2
+        x: 5827
+        y: 662
+        width: 232
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_94
+      rect:
+        serializedVersion: 2
+        x: 6626
+        y: 662
+        width: 232
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_95
+      rect:
+        serializedVersion: 2
+        x: 7431
+        y: 662
+        width: 217
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_96
+      rect:
+        serializedVersion: 2
+        x: 8230
+        y: 662
+        width: 221
+        height: 344
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_97
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 60
+        width: 226
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_98
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 60
+        width: 227
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_99
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 60
+        width: 232
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_100
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 60
+        width: 232
+        height: 361
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_101
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 2605
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_102
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2605
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_103
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 2605
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_104
+      rect:
+        serializedVersion: 2
+        x: 4511
+        y: 2605
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Character_Ani_2_Spritesheet11x10_105
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 2605
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 

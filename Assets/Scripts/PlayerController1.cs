@@ -38,11 +38,11 @@ public class PlayerController1 : MonoBehaviour {
 		//float inputDir = Input.GetAxis("Horizontal");
 		float inputDir;
 		if (Input.GetKey (KeyCode.J))
-						inputDir = -1;
-				else if (Input.GetKey (KeyCode.L))
-						inputDir = 1;
-				else
-						inputDir = 0;
+			inputDir = -1;
+		else if (Input.GetKey (KeyCode.L))
+			inputDir = 1;
+		else
+			inputDir = 0;
 
 		if(inputDir == 0 && rigidbody2D.velocity.x != 0 && grounded) {
 			rigidbody2D.velocity = new Vector2(0, rigidbody2D.velocity.y);
