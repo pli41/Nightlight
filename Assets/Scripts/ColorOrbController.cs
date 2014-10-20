@@ -6,6 +6,8 @@ public class ColorOrbController : MonoBehaviour {
 	private Color color;
 	private PlayerController playerController;
 
+
+
 	void Awake() {
 		GameObject player = GameObject.Find ("Player");
 		playerController = player.GetComponent<PlayerController> ();
@@ -19,8 +21,19 @@ public class ColorOrbController : MonoBehaviour {
 		transform.renderer.material.color = color;
 	}
 
+	void changePlayerColor(){
+		if (transform.tag == "Red")
+			playerController.renderer.material.color = new Color (1, 0, 0);
+		else if (transform.tag == "Blue")
+			playerController.renderer.material.color = new Color (0, 0, 1);
+		else if (transform.tag == "Yellow")
+			playerController.renderer.material.color = new Color (1, 1, 0);
+	}
+
 	void OnTriggerEnter2D(Collider2D other) {
 		if (other.tag == "Player" && playerController != null) {
+			Debug.Log("Picked an orb up");
+			changePlayerColor();
 			if (playerController.color != null) {
 				GameObject[] blocksToHide = GameObject.FindGameObjectsWithTag(playerController.color);
 				for(int i=0; i < blocksToHide.Length; i++) {
