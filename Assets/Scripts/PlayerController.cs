@@ -59,7 +59,7 @@ public class PlayerController : MonoBehaviour {
 
 		if(inputDir * rigidbody2D.velocity.x < maxSpeed) {
 			if(!grounded) {
-				rigidbody2D.AddForce(Vector2.right * inputDir * acceleration / 50);
+				rigidbody2D.AddForce(Vector2.right * inputDir * acceleration / 10);
 			} else {
 				rigidbody2D.AddForce(Vector2.right * inputDir * acceleration);
 
