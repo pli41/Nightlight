@@ -536,7 +536,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpeed: 8
   acceleration: 300
-  jumpForce: 1000
+  jumpForce: 800
   color: 
 --- !u!61 &1294747646
 BoxCollider2D:
@@ -1203,7 +1203,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1873912900}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.75906372, y: 9.04655361, z: 0}
+  m_LocalPosition: {x: -9.83120346, y: 8.21769047, z: 0}
   m_LocalScale: {x: 3.282516, y: 2.5301404, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
