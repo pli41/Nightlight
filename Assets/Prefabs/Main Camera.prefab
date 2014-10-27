@@ -94,7 +94,7 @@ MonoBehaviour:
   xSmooth: 2
   ySmooth: 2
   maxXAndY: {x: 100, y: 100}
-  minXAndY: {x: 0, y: 0}
+  minXAndY: {x: -100, y: -100}
 --- !u!124 &12400000
 Behaviour:
   m_ObjectHideFlags: 1

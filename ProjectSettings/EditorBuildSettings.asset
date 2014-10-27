@@ -7,7 +7,7 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 0
     path: Assets/Scene.unity
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/test.unity
   - enabled: 1
     path: Assets/Scenes/Lvl 1 - Tutorial.unity
@@ -21,3 +21,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Lvl 5 - Fade.unity
   - enabled: 1
     path: Assets/Scenes/Lvl 6 - Grand Pit.unity
+  - enabled: 1
+    path: Assets/Scenes/Lvl 7 - Shackle.unity
+  - enabled: 1
+    path: Assets/Scenes/Lvl 8 - Hopping.unity

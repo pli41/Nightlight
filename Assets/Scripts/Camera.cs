@@ -37,7 +37,11 @@ public class Camera : MonoBehaviour {
 	
 	void FixedUpdate ()
 	{
-		TrackPlayer();
+		if(player != null){
+			TrackPlayer();
+			Debug.Log("Track");
+		}
+
 	}
 	
 	

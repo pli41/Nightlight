@@ -5,7 +5,7 @@ public class ColorOrbController : MonoBehaviour {
 
 	private Color color;
 	private PlayerController playerController;
-
+	public AudioClip pickup;
 
 
 	void Awake() {
@@ -33,6 +33,7 @@ public class ColorOrbController : MonoBehaviour {
 	void OnTriggerEnter2D(Collider2D other) {
 		if (other.tag == "Player" && playerController != null) {
 			Debug.Log("Picked an orb up");
+			AudioSource.PlayClipAtPoint(pickup, transform.position);
 			changePlayerColor();
 			if (playerController.color != null) {
 				GameObject[] blocksToHide = GameObject.FindGameObjectsWithTag(playerController.color);
